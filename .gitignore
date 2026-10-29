@@ -65,3 +65,6 @@ venv.bak/
 
 # Visual Studio Code
 .vscode/
+# Subcortical meshes built locally by tools/build_4s156_subcortical.py.
+# They derive from the 4S atlas (CC BY-ND) and are not redistributed.
+yabplot/data/atlases/4s_subcortical/
